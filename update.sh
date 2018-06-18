@@ -18,4 +18,4 @@ fi
 
 echo "Copying distribution.."
 
-rsync -vrthc "$DIST/" . --delete --exclude update.sh --exclude .gitignore --exclude .distloc --exclude .git
+rsync -vrthc "$DIST/" . --delete --exclude update.sh --exclude .gitignore --exclude .distloc --exclude .git --exclude index.html --exclude styles.css
