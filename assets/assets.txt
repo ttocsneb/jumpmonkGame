@@ -2,6 +2,9 @@ d:assets:0:application/unknown
 d:atlas:0:application/unknown
 t:atlas/pack.atlas:274:application/unknown
 i:atlas/pack.png:116400:image/png
+d:fonts:0:application/unknown
+t:fonts/arial-8bit.fnt:25028:application/unknown
+i:fonts/arial-8bit_0.png:3414:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5350:application/unknown
