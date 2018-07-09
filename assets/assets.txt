@@ -1,7 +1,7 @@
 d:assets:0:application/unknown
 d:atlas:0:application/unknown
-t:atlas/pack.atlas:274:application/unknown
-i:atlas/pack.png:116400:image/png
+t:atlas/pack.atlas:462:application/unknown
+i:atlas/pack.png:98192:image/png
 d:fonts:0:application/unknown
 t:fonts/arial-8bit.fnt:25028:application/unknown
 i:fonts/arial-8bit_0.png:3414:image/png

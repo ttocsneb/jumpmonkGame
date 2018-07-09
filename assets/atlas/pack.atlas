@@ -6,15 +6,29 @@ filter: Nearest,Nearest
 repeat: none
 badlogic
   rotate: false
-  xy: 2, 132
+  xy: 2, 180
   size: 256, 256
   orig: 256, 256
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 2, 68
+  size: 215, 110
+  orig: 215, 110
   offset: 0, 0
   index: -1
 jumpmonk
   rotate: false
   xy: 2, 2
-  size: 128, 128
-  orig: 128, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+person
+  rotate: false
+  xy: 260, 316
+  size: 47, 120
+  orig: 47, 120
   offset: 0, 0
   index: -1
