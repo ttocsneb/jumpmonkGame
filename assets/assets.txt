@@ -5,6 +5,11 @@ i:atlas/pack.png:98192:image/png
 d:fonts:0:application/unknown
 t:fonts/arial-8bit.fnt:25028:application/unknown
 i:fonts/arial-8bit_0.png:3414:image/png
+d:shaders:0:application/unknown
+t:shaders/passthrough.f.glsl:219:application/unknown
+t:shaders/passthrough.v.glsl:342:application/unknown
+t:shaders/pixelize.f.glsl:301:application/unknown
+t:shaders/pixelize.v.glsl:346:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5350:application/unknown
